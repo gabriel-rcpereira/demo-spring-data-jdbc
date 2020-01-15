@@ -21,6 +21,9 @@ build/
 *.ipr
 out/
 
+### properties ##
+*.properties_bkp*
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
